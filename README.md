@@ -1,8 +1,7 @@
 <h1 align="center">Adhithya here!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=On+a+path+to+becoming+a+polymath+—;decoding+the+aftermath+of+tech,+thought,+and+transformation." alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&multiline=true&width=600&lines=Cooking+with+Code!;ML+%7C+DL+%7C+LLMs+%7C+NLP+%7C+RAG)
+
 
 - 🌱 Currently learning: `AI`, `Deep Learning`, `System Design`, `Spaced Repetition`
 - 💡 Exploring: `Kaggle ML competitions`, `Hackathons`, `Dev Tools`
