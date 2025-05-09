@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Adhithya here!</h1>
 
-<!--
-**Adhhhithya/Adhhhithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=On+a+path+to+becoming+a+polymath+—;decoding+the+aftermath+of+tech,+thought,+and+transformation." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: `AI`, `Deep Learning`, `System Design`, `Spaced Repetition`
+- 💡 Exploring: `Kaggle ML competitions`, `Hackathons`, `Dev Tools`
+- 🛠 Building: Projects with Python, Pytorch, TensorFlow, and React
+- ⚡ Fun fact: Coffee + Code = Time travel 🌀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,scikit-learn,tensorflow,pytorch,jupyter,git,vscode,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhhhithya&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adhhhithya&theme=radical" width="47%" />
+</p>
+
+---
+
+## 🌐 Online Presence
+- 💼 [LinkedIn](https://linkedin.com/in/adhithya-j-1603uwhw)
+- 🧠 [Kaggle](https://www.kaggle.com/adhhhithya)
+- 🐦 [X / Twitter](https://x.com/AdhithyaJ38648)
+- 📬 Email: [adhithyaj06@gmail.com](mailto:adhithyaj06@gmail.com)
+
+---
+
+## 🏆 Kaggle Competitions
+- 🔥 [Image Matching Challenge 2025 (Ongoing)](https://www.kaggle.com/competitions/image-matching-challenge-2025)
+- 🎯 [Playground Series - Season 5 Episode 2](https://www.kaggle.com/competitions/playground-series-s5e2)
+- 🎧 [Podcast Listen Time Prediction](https://github.com/Adhhhithya/Podcast_Listen_Time_Prediction)
+
+---
+
+## ⚔️ Hackathon Projects
+- 🚨 [Splash Flow - Flood Helpline](https://github.com/Adhhhithya/Splash-Flow-Flood-Helpline)
+- 🕵️‍♂️ [Deepfake Detection](https://github.com/Adhhhithya/Deepfake-Detection)
+- 🌾 [FarmLink Globale](https://github.com/Adhhhithya/farm-link-globale)
+
+---
+
+## 🔧 Mini Projects
+- 🚌 [Bus Reservation System](https://github.com/Adhhhithya/bus_reservation_system)
+- 💊 [Pharmacy Management System](https://github.com/Adhhhithya/pharmacy_management_system)
+- 🍳 [Recipe Portal System](https://github.com/Adhhhithya/recipe_portal_system)
+
+---
+
+## 📈 Contribution Graph
+[![Adhithya’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhhhithya&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🧠 Let’s code. Let’s learn. Let’s build the future.
