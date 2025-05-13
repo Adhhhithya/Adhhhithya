@@ -34,24 +34,25 @@
 
 ---
 
-## 🏆 Datascience and ML Hub
-- 🔥 [Image Matching Challenge 2025 (Ongoing)](https://www.kaggle.com/competitions/image-matching-challenge-2025)
-- 🎯 [Playground Series - Season 5 Episode 2](https://www.kaggle.com/competitions/playground-series-s5e2)
-- 🎧 [Podcast Listen Time Prediction](https://github.com/Adhhhithya/Podcast_Listen_Time_Prediction)
+##  Datascience and ML Hub
+-  [Image Matching Challenge 2025 (Ongoing)](https://www.kaggle.com/competitions/image-matching-challenge-2025)
+-  [Playground Series - Season 5 Episode 2](https://www.kaggle.com/competitions/playground-series-s5e2)
+-  [Podcast Listen Time Prediction](https://github.com/Adhhhithya/Podcast_Listen_Time_Prediction)
+- [License Plate Detection](https://github.com/Adhhhithya/license_plate_detection)
 
 ---
 
 ## ⚔️ Hackathon Projects
-- 🚨 [Splash Flow - Flood Helpline](https://github.com/Adhhhithya/Splash-Flow-Flood-Helpline)
-- 🕵️‍♂️ [Deepfake Detection](https://github.com/Adhhhithya/Deepfake-Detection)
-- 🌾 [FarmLink Globale](https://github.com/Adhhhithya/farm-link-globale)
+-  [Splash Flow - Flood Helpline](https://github.com/Adhhhithya/Splash-Flow-Flood-Helpline)
+-  [Deepfake Detection](https://github.com/Adhhhithya/Deepfake-Detection)
+-  [FarmLink Globale](https://github.com/Adhhhithya/farm-link-globale)
 
 ---
 
 ## 🔧 Mini Projects
-- 🚌 [Bus Reservation System](https://github.com/Adhhhithya/bus_reservation_system)
-- 💊 [Pharmacy Management System](https://github.com/Adhhhithya/pharmacy_management_system)
-- 🍳 [Recipe Portal System](https://github.com/Adhhhithya/recipe_portal_system)
+-  [Bus Reservation System](https://github.com/Adhhhithya/bus_reservation_system)
+-  [Pharmacy Management System](https://github.com/Adhhhithya/pharmacy_management_system)
+-  [Recipe Portal System](https://github.com/Adhhhithya/recipe_portal_system)
 
 ---
 
