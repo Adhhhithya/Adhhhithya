@@ -34,7 +34,7 @@
 
 ---
 
-## 🏆 Kaggle Competitions
+## 🏆 Datascience and ML Hub
 - 🔥 [Image Matching Challenge 2025 (Ongoing)](https://www.kaggle.com/competitions/image-matching-challenge-2025)
 - 🎯 [Playground Series - Season 5 Episode 2](https://www.kaggle.com/competitions/playground-series-s5e2)
 - 🎧 [Podcast Listen Time Prediction](https://github.com/Adhhhithya/Podcast_Listen_Time_Prediction)
