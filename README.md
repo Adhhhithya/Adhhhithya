@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Currently learning: `AI`, `Deep Learning`, `System Design`, `Spaced Repetition`
+- 🌱 Currently learning: `AI`, `Deep Learning`, `Computer Vision`, `LLMs`
 - 💡 Exploring: `Kaggle ML competitions`, `Hackathons`, `Dev Tools`
 - 🛠 Building: Projects with Python, Pytorch, TensorFlow, and React
 
