@@ -7,7 +7,6 @@
 - 🌱 Currently learning: `AI`, `Deep Learning`, `System Design`, `Spaced Repetition`
 - 💡 Exploring: `Kaggle ML competitions`, `Hackathons`, `Dev Tools`
 - 🛠 Building: Projects with Python, Pytorch, TensorFlow, and React
-- ⚡ Fun fact: Coffee + Code = Time travel 🌀
 
 ---
 
