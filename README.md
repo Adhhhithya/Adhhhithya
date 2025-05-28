@@ -57,7 +57,8 @@
 
 ---
 
-## 🔧 Mini Projects
+## 🔧 Projects Bank
+-  [Job Market Analyzer](https://github.com/Adhhhithya/job_analyzer)
 -  [Bus Reservation System](https://github.com/Adhhhithya/bus_reservation_system)
 -  [Pharmacy Management System](https://github.com/Adhhhithya/pharmacy_management_system)
 -  [Recipe Portal System](https://github.com/Adhhhithya/recipe_portal_system)
