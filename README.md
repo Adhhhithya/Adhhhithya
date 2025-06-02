@@ -70,4 +70,4 @@
 
 ---
 
-### 🧠 Let’s code. Let’s learn. Let’s build the future.
+###  Let's make the tranformation from here :)
