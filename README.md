@@ -43,7 +43,6 @@
 ---
 
 ##  Datascience and ML Hub
--  [Image Matching Challenge 2025 (Ongoing)](https://www.kaggle.com/competitions/image-matching-challenge-2025)
 -  [Back Pack Prediction ](https://github.com/Adhhhithya/Back_Pack_Prediction)
 -  [Podcast Listen Time Prediction](https://github.com/Adhhhithya/Podcast_Listen_Time_Prediction)
 - [License Plate Detection](https://github.com/Adhhhithya/license_plate_detection)
