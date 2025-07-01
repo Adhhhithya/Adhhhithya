@@ -4,13 +4,13 @@
 
 
 
-- 🌱 Currently learning: `AI`, `Deep Learning`, `Computer Vision`, `LLMs`
-- 💡 Exploring: `Kaggle ML competitions`, `Hackathons`, `Dev Tools`
-- 🛠 Building: Projects with Python, Pytorch, TensorFlow, and React
+-  Currently learning: `AI`, `Deep Learning`, `Computer Vision`, `LLMs`
+-  Exploring: `Kaggle ML competitions`, `Hackathons`, `Dev Tools`
+-  Building: Projects with Python, Pytorch, TensorFlow, and React
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adhhhithya&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Adhhhithya&theme=radical" width="47%" />
@@ -34,11 +34,11 @@
 
 ---
 
-## 🌐 Online Presence
-- 💼 [LinkedIn](https://linkedin.com/in/adhithya-j-1603uwhw)
-- 🧠 [Kaggle](https://www.kaggle.com/adhhhithya)
-- 🐦 [X / Twitter](https://x.com/AdhithyaJ38648)
-- 📬 Email: [adhithyaj06@gmail.com](mailto:adhithyaj06@gmail.com)
+##  Online Presence
+-  [LinkedIn](https://linkedin.com/in/adhithya-j-1603uwhw)
+-  [Kaggle](https://www.kaggle.com/adhhhithya)
+-  [X / Twitter](https://x.com/AdhithyaJ38648)
+-  Email: [adhithyaj06@gmail.com](mailto:adhithyaj06@gmail.com)
 
 ---
 
@@ -49,14 +49,14 @@
 
 ---
 
-## ⚔️ Hackathon Projects
+##  Hackathon Projects
 -  [Splash Flow - Flood Helpline](https://github.com/Adhhhithya/Splash-Flow-Flood-Helpline)
 -  [Deepfake Detection](https://github.com/Adhhhithya/Deepfake-Detection)
 -  [FarmLink Globale](https://github.com/Adhhhithya/farm-link-globale)
 
 ---
 
-## 🔧 Projects Bank
+##  Projects Bank
 -  [Job Market Analyzer](https://github.com/Adhhhithya/job_analyzer)
 -  [Bus Reservation System](https://github.com/Adhhhithya/bus_reservation_system)
 -  [Pharmacy Management System](https://github.com/Adhhhithya/pharmacy_management_system)
