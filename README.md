@@ -64,7 +64,7 @@
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 [![Adhithya’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhhhithya&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
