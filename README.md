@@ -38,7 +38,6 @@
 -  [LinkedIn](https://linkedin.com/in/adhithya-j-1603uwhw)
 -  [Kaggle](https://www.kaggle.com/adhhhithya)
 -  [X / Twitter](https://x.com/AdhithyaJ38648)
--  Email: [adhithyaj06@gmail.com](mailto:adhithyaj06@gmail.com)
 
 ---
 
