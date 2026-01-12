@@ -26,14 +26,6 @@
 
 ---
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhhhithya&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adhhhithya&theme=radical" width="47%" />
-</p>
-
----
-
 ##  Online Presence
 -  [LinkedIn](https://linkedin.com/in/adhithya-j-1603uwhw)
 -  [Kaggle](https://www.kaggle.com/adhhhithya)
