@@ -26,14 +26,14 @@
 
 ---
 
-##  Online Presence
+##  Socials
 -  [LinkedIn](https://linkedin.com/in/adhithya-j-1603uwhw)
 -  [Kaggle](https://www.kaggle.com/adhhhithya)
 -  [X / Twitter](https://x.com/AdhithyaJ38648)
 
 ---
 
-##  Datascience and ML Hub
+##  Datascience and Machine Learning
 -  [Back Pack Prediction ](https://github.com/Adhhhithya/Back_Pack_Prediction)
 -  [Podcast Listen Time Prediction](https://github.com/Adhhhithya/Podcast_Listen_Time_Prediction)
 - [License Plate Detection](https://github.com/Adhhhithya/license_plate_detection)
@@ -47,17 +47,8 @@
 
 ---
 
-##  Projects Bank
--  [Job Market Analyzer](https://github.com/Adhhhithya/job_analyzer)
--  [Bus Reservation System](https://github.com/Adhhhithya/bus_reservation_system)
--  [Pharmacy Management System](https://github.com/Adhhhithya/pharmacy_management_system)
--  [Recipe Portal System](https://github.com/Adhhhithya/recipe_portal_system)
-
----
-
 ##  Contribution Graph
 [![Adhithya’s GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhhhithya&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-###  Let's make the tranformation from here :)
